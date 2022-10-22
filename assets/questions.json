@@ -1,0 +1,253 @@
+[
+    {
+      "question": "When does Nepal Celebrate New Year?",
+      "options": [
+        "A. 1st Baisakh",
+        "B. 2nd Baisakh",
+        "C. 29th Chaitra",
+        "D. 30th Chaitra"
+      ],
+      "answer": "A. 1st Baisakh"
+    },
+    {
+      "question": "Nobel prize is awarded for which of the following disciplines?",
+      "options": [
+        "A. Literature, peace and economics",
+        "B. Medicine or Physiology",
+        "C. Chemistry and Physics",
+        "D. All the above"
+      ],
+      "answer": "D. All the above"
+    },
+    {
+      "question": "How many provinces are there in Nepal?",
+      "options": ["A. 1", "B. 7", "C. 14", "D. 75"],
+      "answer": "B. 7"
+    },
+    {
+      "question": "Which country operationalized world’s largest radio telescope?",
+      "options": ["A. USA", "B. China", "C. Russia", "D. India"],
+      "answer": "B. China"
+    },
+    {
+      "question": "Which one among the following radiations carries maximum energy?",
+      "options": [
+        "A. Ultraviolet rays",
+        "B. Gamma rays",
+        "C. X- rays",
+        "D. Infra-red rays"
+      ],
+      "answer": "B. Gamma rays"
+    },
+    {
+      "question": "The head quarters of world trade organization is in?",
+      "options": [
+        "A. Montreal",
+        "B. Seattle",
+        "C. Geneva",
+        "D. None of the above"
+      ],
+      "answer": "C. Geneva"
+    },
+    {
+      "question": "The language spoken by the people by Pakistan is ?",
+      "options": ["A. Hindi", "B. Nepali", "C. English", "D. Sindhi"],
+      "answer": "D. Sindhi"
+    },
+    {
+      "question": "At the end of March 2019, what was the amount of India's external debt?",
+      "options": [
+        "A. US $ 540 billion",
+        "B. US $ 543 billion",
+        "C. US $ 547 billion",
+        "D. US $ 541 billion"
+      ],
+      "answer": "B. US $ 543 billion"
+    },
+    {
+      "question": "'LIBRA' an alternative of existing cryptocurrency like bitcoin is being developed by?",
+      "options": [
+        "A. Facebook",
+        "B. Google",
+        "C. Microsoft",
+        "D. None of the above"
+      ],
+      "answer": "A. Facebook"
+    },
+    {
+      "question": "Galileo was an astronomer who?",
+      "options": [
+        "A. developed the telescope",
+        "B. discovered four satellites of Jupiter",
+        "C. discovered that the movement of pendulum produces a regular time measurement",
+        "D.  All the above"
+      ],
+      "answer": "B. discovered four satellites of Jupiter"
+    },
+    {
+      "question": "Headquater of International Olympic Committee is situated at?",
+      "options": ["A. Athens", "B. Lausanne", "C. Dubai", "D. None of the above"],
+      "answer": "B. Lausanne"
+    },
+    {
+      "question": "'The Coalition Years' is the autobiography of?",
+      "options": [
+        "A. L.K Advani",
+        "B. Pranab Mukherjee",
+        "C. Atal Behari Vajpayee",
+        "D. Sonia Gandhi"
+      ],
+      "answer": "B. Pranab Mukherjee"
+    },
+    {
+      "question": "The metal whose salts are sensitive to light is?",
+      "options": ["A. Silver", "B. Zinc", "C. Copper", "D. Gold"],
+      "answer": "A. Silver"
+    },
+    {
+      "question": "Who is the father of geometry?",
+      "options": ["A. Aristotle", "B. Euclid", "C. Pythagoras", "D. Kepler"],
+      "answer": "B. Euclid"
+    },
+    {
+      "question": "Entomology studies what?",
+      "options": [
+        "A. Behavior of human beings",
+        "B. Insects",
+        "C. The origin and history of technical and scientific terms",
+        "D. The formation of rocks"
+      ],
+      "answer": "B. Insects"
+    },
+    {
+      "question": "Galileo was an astronomer who",
+      "options": [
+        "A. Developed the telescope",
+        "B. Discovered four satellites of Jupiter",
+        "C. discovered that the movement of pendulum produces a regular time measurement",
+        "D. All the above"
+      ],
+      "answer": "B. Discovered four satellites of Jupiter"
+    },
+    {
+      "question": "Who is the father of geometry?",
+      "options": ["A. Aristotle", "B. Euclid", "C. Pythagoras", "D. Kepler"],
+      "answer": "B. Euclid"
+    },
+    {
+      "question": "Indian player Jude Felix is popular for which sports?",
+      "options": ["A. Volleyball", "B. Football", "C. Hockey", "D. Tennis"],
+      "answer": "C. Hockey"
+    },
+    {
+      "question": "Who is the current chief of the world bank group?",
+      "options": [
+        "A. Donald Tusk",
+        "B. David Malpass",
+        "C. Christine Lagarde",
+        "D. Jim Yong Kim"
+      ],
+      "answer": "B. David Malpass"
+    },
+    {
+      "question": "When was Second World War started?",
+      "options": [
+        "A. September 1, 1939",
+        "B. September 1, 1940",
+        "C. September 1, 1945",
+        "D. September 1, 1942"
+      ],
+      "answer": "A. September 1, 1939"
+    },
+    {
+      "question": "Each year World Red Cross and Red Crescent Day is celebrated on?",
+      "options": ["A. May 8", "B. May 18", "C. June 8", "D. June 19"],
+      "answer": "A. May 8"
+    },
+    {
+      "question": "The brain fever which affects young children is?",
+      "options": ["A. Malaria", "B. Typhoid", "C. Encephalitis", "D. Pneumonia"],
+      "answer": "C. Encephalitis"
+    },
+    {
+      "question": "Which is the first search engine of the internet?",
+      "options": ["A. Yahoo", "B. Wais", "C. Archie", "D. Mozilla"],
+      "answer": "C. Archie"
+    },
+    {
+      "question": "In a Database Management System(DBMS) the content and the location of data is identified by ?",
+      "options": [
+        "A. Subdata",
+        "B. Sequence Data",
+        "C. Beta Data",
+        "D. Meta Data"
+      ],
+      "answer": "D. Meta Data"
+    },
+    {
+      "question": "'.MOV' extensions refer to which kind of file?",
+      "options": [
+        "A. Image file",
+        "B. Movie File",
+        "C. Audio File",
+        "D. ZIP File"
+      ],
+      "answer": "B. Movie File"
+    },
+    {
+      "question": "Who wrote the famous poem 'The Charge of the Light Brigade'?",
+      "options": [
+        "A. Lord Alfred Tennyson",
+        "B. Christopher Marlowe",
+        "C. Johannes Gutenberg",
+        "D. Rene Descartes"
+      ],
+      "answer": "A. Lord Alfred Tennyson"
+    },
+    {
+      "question": "Who founded Indian National Army(INA)?",
+      "options": [
+        "A. Netaji Subhas Chandra Bose",
+        "B. Mohan Singh",
+        "C. Rash Behari Bose",
+        "D. Jatridranath Mukherjee"
+      ],
+      "answer": "B. Mohan Singh"
+    },
+    {
+      "question": "The control of which state was handed over to british after marriage of King Charles 2 with portuguese princess in 1661?",
+      "options": ["A. Cochin", "B. Bombay", "C. Surat", "D. Madras"],
+      "answer": "B. Bombay"
+    },
+    {
+      "question": " Country that has the highest in Barley Production ?",
+      "options": ["A. China", "B. India", "C. Russia", "D. France"],
+      "answer": "C. Russia"
+    },
+    {
+      "question": "The World Largest desert is ?",
+      "options": ["A. Thar", "B. Kalahari", "C. Sahara", "D. Sonoran"],
+      "answer": "C. Sahara"
+    },
+    {
+      "question": "Guru Gopi Krishna is popular for which form of Indian dance?",
+      "options": ["A. Bharatanatyam", "B. Kuchipudi", "C. Kathak", "D. Manipuri"],
+      "answer": "B. Kuchipudi"
+    },
+    {
+      "question": "J.B. Dunlop is popular for which of the following inventions?",
+      "options": [
+        "A. Model airplanes",
+        "B. Pneumatic rubber tire",
+        "C. Rubber boot",
+        "D. Automobile wheel rim"
+      ],
+      "answer": "B. Pneumatic rubber tire"
+    },
+    {
+      "question": "Who built this project ?",
+      "options": ["Aman", "Nutan", "Shyam", "Ram"],
+      "answer": "Aman"
+    }
+  ]
+  
